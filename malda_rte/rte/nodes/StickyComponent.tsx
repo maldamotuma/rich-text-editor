@@ -27,7 +27,7 @@ import StickyEditorTheme from '../themes/StickyEditorTheme';
 import ContentEditable from '../ui/ContentEditable';
 import Placeholder from '../ui/Placeholder';
 import {$isStickyNode} from './StickyNode';
-import useLayoutEffectImpl from '@/components/packages/shared/useLayoutEffect';
+import useLayoutEffectImpl from '@/malda_rte/packages/shared/useLayoutEffect';
 
 type Positioning = {
   isDragging: boolean;

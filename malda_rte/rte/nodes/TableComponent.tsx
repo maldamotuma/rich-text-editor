@@ -71,7 +71,7 @@ import {
   Rows,
   TableNode,
 } from './TableNode';
-import { IS_APPLE } from '@/components/packages/shared/environment';
+import { IS_APPLE } from '@/malda_rte/packages/shared/environment';
 
 type SortOptions = {type: 'ascending' | 'descending'; x: number};
 

@@ -96,7 +96,7 @@ import InsertLayoutDialog from '../LayoutPlugin/InsertLayoutDialog';
 import {INSERT_PAGE_BREAK} from '../PageBreakPlugin';
 import {InsertPollDialog} from '../PollPlugin';
 import {InsertNewTableDialog, InsertTableDialog} from '../TablePlugin';
-import { IS_APPLE } from '@/components/packages/shared/environment';
+import { IS_APPLE } from '@/malda_rte/packages/shared/environment';
 
 const blockTypeToBlockName = {
   bullet: 'Bulleted List',

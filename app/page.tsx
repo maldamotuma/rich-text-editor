@@ -1,6 +1,6 @@
 "use client";
 
-import PlaygroundApp from "@/components/rte/App";
+import PlaygroundApp from "@/malda_rte/rte/App";
 
 export default function Home() {
   return (

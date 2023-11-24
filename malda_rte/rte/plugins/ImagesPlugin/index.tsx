@@ -40,7 +40,7 @@ import Button from '../../ui/Button';
 import {DialogActions, DialogButtonsList} from '../../ui/Dialog';
 import FileInput from '../../ui/FileInput';
 import TextInput from '../../ui/TextInput';
-import { CAN_USE_DOM } from '@/components/packages/shared/canUseDOM';
+import { CAN_USE_DOM } from '@/malda_rte/packages/shared/canUseDOM';
 
 export type InsertImagePayload = Readonly<ImagePayload>;
 
